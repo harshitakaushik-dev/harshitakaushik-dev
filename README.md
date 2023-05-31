@@ -5,6 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshita-kaushik2&label=Profile%20views&color=0e75b6&style=flat" alt="harshita-kaushik2" /> </p>
 
+Hey there ! I am pleased to have you here... I am Harshita Kaushik, currently in my 3rd year of bachelor's degree in Computer Science from Indian Institute of Technology, Agartala. 
 - 💬 Ask me about **React JS, Node JS, Event Management.**
 
 - 📫 Please reach me out via **harshitakaushik.cse@gmail.com**
