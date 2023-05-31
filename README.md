@@ -10,6 +10,8 @@ Hey there ! I am pleased to have you here..!!
 
 - 💬 Ask me about **React JS, Node JS, Event Management.**
 
+- 👥 I am always open for collaboration and group projects.
+
 - 📫 Please reach me out via **harshitakaushik.cse@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
