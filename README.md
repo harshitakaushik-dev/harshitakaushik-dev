@@ -7,12 +7,14 @@
 
 - 💬 Ask me about **React JS, Node JS, Event Management.**
 
-- 📫 How to reach me **harshitakaushik.cse@gmail.com**
+- 📫 Please reach me out via **harshitakaushik.cse@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/harshitacodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshitacodes" height="30" width="40" /></a>
+<p> </p>
 <a href="https://instagram.com/harshitaxkaushik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshitaxkaushik" height="30" width="40" /></a>
+<p> </p>
 <a href="https://www.leetcode.com/harshita_cse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshita_cse" height="30" width="40" /></a>
 </p>
 
