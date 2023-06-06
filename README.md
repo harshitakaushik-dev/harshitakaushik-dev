@@ -16,7 +16,6 @@ Hey there ! I am pleased to have you here..!!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/harshitacodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshitacodes" height="30" width="40" /></a>
 <a href="https://instagram.com/harshitaxkaushik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshitaxkaushik" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/harshita_cse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshita_cse" height="30" width="40" /></a>
 </p>
